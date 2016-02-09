@@ -1,0 +1,5 @@
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/Xamarin.CropView/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/Xamarin.CropView/bin/Debug/Xamarin.CropView.dll.mdb
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/Xamarin.CropView/bin/Debug/Xamarin.CropView.dll
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/Xamarin.CropView/obj/Debug/Xamarin.CropView.dll
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/Xamarin.CropView/obj/Debug/Xamarin.CropView.dll.mdb

@@ -1,0 +1,27 @@
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/Xamarin.CropViewSample.iOS.exe.mdb
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/Xamarin.CropViewSample.iOS.exe
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/obj/iPhoneSimulator/Debug/Xamarin.CropViewSample.iOS.exe
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/obj/iPhoneSimulator/Debug/Xamarin.CropViewSample.iOS.exe.mdb
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/Xamarin.CropViewSample.dll
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/Xamarin.CropViewSample.dll.mdb
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/obj/iPhoneSimulator/Debug/optimized/Plus Math-50.png
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/obj/iPhoneSimulator/Debug/optimized/Plus Math-50@2x.png
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/XLabs.Ioc.dll
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/ExifLib.dll
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/XLabs.Core.dll
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/XLabs.Platform.iOS.dll
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/XLabs.Platform.dll
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/XLabs.Serialization.dll
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/XLabs.Forms.iOS.dll
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/XLabs.Forms.dll
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/Xamarin.CropView.dll
+/Users/bradleyhobbs/Projects/Bindings/TOCropViewController/Xamarin.CropView/iOS/bin/iPhoneSimulator/Debug/Xamarin.CropView.dll.mdb
