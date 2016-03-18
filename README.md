@@ -1,4 +1,7 @@
 # Xamarin.CropView
+
+Xamarin iOS Crop View (Image Cropper)
+
 This is an Objective-C binding project of TOCropViewController for Xamarin.iOS or Xamarin.Forms projects.
 
 Objective-C Source: https://github.com/TimOliver/TOCropViewController
